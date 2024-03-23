@@ -1,0 +1,53 @@
+{
+  "recipes": [
+    {
+      "id": "minecraft:leaves",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+        {
+          "id": "harvestcraft:aridgarden",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "harvestcraft:frostgarden",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "harvestcraft:shadedgarden",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "harvestcraft:soggygarden",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "harvestcraft:tropicalgarden",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "harvestcraft:windygarden",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "harvestcraft:beehive",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        }
+      ]
+    }
+  ]
+}

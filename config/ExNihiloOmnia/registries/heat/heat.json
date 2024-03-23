@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "block": "quark:biotite_block",
+      "meta": 0,
+      "heat": 500
+    },
+    {
+      "block": "libvulpes:advStructureMachine",
+      "meta": 0,
+      "heat": 900
+    }
+  ]
+}

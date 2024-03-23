@@ -1,0 +1,153 @@
+{
+  "recipes": [
+  {
+      "id": "exnihiloomnia:gravel_nether",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+	    {
+          "id": "libvulpes:productdust",
+          "meta": 7,
+          "amount": 1,
+          "baseChance": 7
+        }
+      ]
+    },
+		    {
+      "id": "exnihiloomnia:infested_leaves",
+      "meta": 0,
+      "behavior": "meta_ignored",
+      "rewards": [
+	    {
+          "id": "toughasnails:ice_cube",
+          "meta": 0,
+          "amount": 2,
+          "baseChance": 55
+        },
+        {
+          "id": "minecraft:slime_ball",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 30
+		}
+      ]
+    },
+	    {
+      "id": "exnihiloomnia:dust",
+      "meta": 1,
+      "behavior": "meta_specific",
+      "rewards": [
+		{
+          "id": "actuallyadditions:itemMisc",
+          "meta": 5,
+          "amount": 2,
+          "baseChance": 2
+        },
+		{
+          "id": "actuallyadditions:itemRiceSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },
+		{
+          "id": "actuallyadditions:itemCanolaSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 1
+        },
+		{
+          "id": "actuallyadditions:itemFlaxSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 1
+        },
+		{
+          "id": "actuallyadditions:itemCoffeeSeed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        },		
+	    {
+          "id": "appliedenergistics2:material",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 7
+        }
+      ]
+    },
+    {
+      "id": "minecraft:sand",
+      "meta": 0,
+      "behavior": "meta_specific",
+      "rewards": [
+        {
+          "id": "appliedenergistics2:material",
+          "meta": 45,
+          "amount": 1,
+          "baseChance": 7
+        },
+		{
+          "id": "appliedenergistics2:material",
+          "meta": 2,
+          "amount": 1,
+          "baseChance": 15
+        },
+	    {
+          "id": "appliedenergistics2:material",
+          "meta": 1,
+          "amount": 1,
+          "baseChance": 4
+        },
+		{
+          "id": "advancedrocketry:productdust",
+          "meta": 0,
+          "amount": 3,
+          "baseChance": 4
+        },
+	    {
+          "id": "immersiveengineering:seed",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 4
+        },
+		{
+          "id": "libvulpes:productdust",
+          "meta": 0,
+          "amount": 2,
+          "baseChance": 4
+        },
+		{
+          "id": "minecraft:prismarine_shard",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 3
+        }
+      ]
+    },
+    {
+      "id": "minecraft:cobblestone",
+      "meta": 0,
+      "behavior": "meta_specific",
+      "rewards": [
+        {
+          "id": "bigreactors:dustMetals",
+          "meta": 0,
+          "amount": 3,
+          "baseChance": 6
+        },
+		{
+          "id": "bigreactors:dustMetals",
+          "meta": 0,
+          "amount": 1,
+          "baseChance": 10
+        },
+		{
+          "id": "advancedrocketry:productdust",
+          "meta": 0,
+          "amount": 3,
+          "baseChance": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+                            §41.0.3 Changelog
+
+Updated lots of mods
+Updated quests use /bq_admin default load
+
+
+        §2Config changes
+
+* Drones now spawn less an on day 6
+* Drones now shoot blades on day 9 from day 11
+* t-r3x 1000 dropped spawn rate
+* laser creeper spawn less
+
+        §2Config changes
+
+fixed pams harvestcraft salt recipe
+
+------------------------------------------------------------------
+
+                            §41.0.1 Changelog
+
+        §2Changes
+* Increased Durability on tools
+
+        §2Mods Updated
+* Angel Ring To Bauble
+* Forestry
+
+------------------------------------------------------------------
+
+                            §41.0 Changelog
+
+        §2Changes
+* Tweaked Map a bit more
+* Changed few more recipes
+
+        §2Mods Updated
+* Cooking For Block Heads
+* Dynamic Surroundings
+* Wireless Crafting Terminal
+
+------------------------------------------------------------------
+
+                            §40.9 Changelog
+
+        §2Changes
+* Drones should now spwan less during night an day
+* Removed world edit not needed now
+* Cactus can only be used for water nothing else
+* Vanilla Picks durability changed
+
+        §2Mods Updated
+* Forestry
+* Just Enough Items
+
+------------------------------------------------------------------
+                            §40.8 Changelog
+        §2Changes
+* Fixed a spawning issue
+
+------------------------------------------------------------------
+
+                            §40.7 Changelog
+
+        §2Changes
+* Fixed all place holder quests do command /bq_admin default load
+
+        §2Mods Updated
+* TOP Addons
+		
+------------------------------------------------------------------
+
+                            §40.6 Changelog
+							
+        §2Changes
+* Changed more recipes
+* Dropped down a version of Ex Compressum
+
+------------------------------------------------------------------
+                            §40.5 Changelog
+
+        §2Changes
+* Added couple of quests
+* Changed Quests Layout
+* Overhaul on a lot of recipes
+* Map changed ;)
+
+        §2Mods Updated
+* Blocklings
+* SilentLib               
+
+------------------------------------------------------------------
+
+                            §40.4 Changelog
+        §2Changes
+* Changed Recipe for Temp Regulator
+* Removed Progressive Automation (Make early game longer)
+
+------------------------------------------------------------------
+
+                            §40.3 Changelog
+
+* Changed Ship layout
+* Removed weather2 mod
+* Added Dynamic surrondings
